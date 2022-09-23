@@ -1,0 +1,23 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibtisam34/happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibtisam34/happy/issues"
+  },
+  "homepage": "https://github.com/Ibtisam34/happy#readme",
+  "devDependencies": {
+    "hint": "^7.1.2"
+  }
+}
