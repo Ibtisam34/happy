@@ -1,56 +1,25 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+  ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Description the project.
+# Portfolio
 
+Its a  my first page of mobile portfolio as per the requirements of the project. It is designed using HTML and CSS .
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+html
+css
 
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Clone the repo named "portfolio"
 
 ## Authors
 
-👤 **Author1**
+👤 Riyana
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/ibtisam34))
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn]linkedin.com/in/riyangwl2/
 
 ## 🤝 Contributing
 
