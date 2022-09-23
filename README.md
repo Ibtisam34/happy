@@ -17,9 +17,9 @@ Clone the repo named "portfolio"
 
 👤 Riyana
 
-- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/ibtisam34))
+- GitHub: [ibtisam34](https://github.com/ibtisam34)
 
-- LinkedIn: [LinkedIn]linkedin.com/in/riyangwl2/
+- LinkedIn: [LinkedIn](linkedin.com/in/riyangwl2)
 
 ## 🤝 Contributing
 
