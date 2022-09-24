@@ -169,187 +169,6 @@
 }
 
 .Works {
- display: grid;
- background-color: white;
- grid-template-columns: 24px 327px 24px;
- grid-template-rows: 107px 80px 500px 386px 386px 386px 386px 386px 386px;
- row-gap: 36px;
- padding: 120px 0;
- position: absolute;
- width: 375px;
- height: 3455px;
- left: 0;
- top: 682px;
-  }
-
-.RecentWorks {
-  grid-column: 2/3;
-  grid-row: 1/2;
-  display: flex;
-  align-items: flex-start;
-  color: #1c1a19;
-  border-bottom: 1px solid #212121;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.RecentWorks h1 {
-  font-family: "Crete Round", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 52px;
-}
-
-.MultiPostStories {
-  grid-column: 2/3;
-  grid-row: 3/4;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 12px;
-}
-
-.MultiPostStories h2 {
-  font-family: "Crete Round", sans-serif;
-  font-size: 32px;
-  font-weight: 400;
-  line-height: 44px;
-  letter-spacing: 0em;
-  margin: 0;
-}
-
-.MultiPostStories p {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  margin: 0;
-  color: #091e42;
-}
-
-.languageBoxes {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 5px;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.languageBoxes .box p {
-  box-sizing: border-box;
-  border: 1px solid #8993a4;
-  display: flex;
-  align-items: center;
-  padding: 4px 4px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 15px;
-  line-height: 20px;
-}
-
-.MultiPostStories button {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 12px;
-  gap: 10px;
-  width: 124px;
-  height: 48px;
-  background: #ff6b00;
-  flex: none;
-  order: 3;
-  flex-grow: 0;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 24px;
-  color: #fff;
-}
-
-.work1 {
-    grid-column: 2/3;
-    grid-row: 4/5;
-    background: linear-gradient(
-    180.45deg,
-    rgba(38, 38, 38, 0) 0.75%,
-    rgba(38, 38, 38, 0.9) 61.94%
-  );
-  background-image: url("/ImagesWorks/BG1.png");
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  padding-top: 84px;
-}
-
-.work1 h1 {
-  width: 295px;
-  height: 81px;
-  font-family: 'Crete Round';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 32px;
-  line-height: 44px;
-  color: #FFFFFF;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.work1 p {
-  width: 295px;
-  height: 87px;
-  /* Theme 3 / Body Reguler 2 */
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  /* or 150% */
-  color: #ffffff;
-  /* Inside auto layout */
-  flex: none;
-  order: 1;
-  flex-grow: 0;
-}
-
-.category {
-  display: flex;
-}
-
-.language {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 10px 12px;
-  width: 56px;
-  height: 40px;
-  background: rgba(255, 255, 255, 0.24);
-  /* Inside auto layout */
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.backgroung-image {
- position: absolute;
-left: 0px;
-right: 0px;
-top: 0px;
-bottom: 0px;
-background: linear-gradient(180.45deg,
- rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%),
-  url('Img\ Placeholder.png');
-}
-
-.Works {
   display: grid;
   background-color: white;
   grid-template-columns: 24px 327px 24px;
@@ -368,10 +187,14 @@ background: linear-gradient(180.45deg,
   grid-row: 1/2;
   display: flex;
   align-items: flex-start;
+
   /* Theme 3 / Neutral 1 */
+
   color: #1c1a19;
   border-bottom: 1px solid #212121;
+
   /* Inside auto layout */
+
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -422,7 +245,9 @@ background: linear-gradient(180.45deg,
   padding-left: 0;
   margin-bottom: 0;
   margin-top: 0;
+
   /* Inside auto layout */
+
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -432,7 +257,9 @@ background: linear-gradient(180.45deg,
 .work1 p {
   width: 295px;
   height: 87px;
+
   /* Theme 3 / Body Reguler 2 */
+
   font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -442,7 +269,9 @@ background: linear-gradient(180.45deg,
   margin-bottom: 0;
   padding-left: 16px;
   color: #fff;
+
   /* Inside auto layout */
+
   flex: none;
   flex-grow: 0;
 }
@@ -483,9 +312,13 @@ background: linear-gradient(180.45deg,
   gap: 10px;
   width: 124px;
   height: 48px;
+
   /* Theme 3 / Primary 1 */
+
   background: #ff6b00;
+
   /* Inside auto layout */
+
   flex: none;
   order: 3;
   flex-grow: 0;
@@ -528,7 +361,7 @@ background: linear-gradient(180.45deg,
 }
 
 .work1 {
-  background-image: url("BG1.png");
+  background-image: url("/ImagesWorks/BG1.png");
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -546,7 +379,9 @@ background: linear-gradient(180.45deg,
   font-size: 32px;
   line-height: 44px;
   color: #fff;
+
   /* Inside auto layout */
+
   flex: none;
   flex-grow: 0;
 }
@@ -573,7 +408,9 @@ background: linear-gradient(180.45deg,
   width: 56px;
   height: 40px;
   background: rgba(255, 255, 255, 0.24);
+
   /* Inside auto layout */
+
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -587,7 +424,9 @@ background: linear-gradient(180.45deg,
   width: 95px;
   height: 40px;
   background: rgba(255, 255, 255, 0.24);
+
   /* Inside auto layout */
+
   flex: none;
   order: 1;
   flex-grow: 0;
@@ -601,7 +440,9 @@ background: linear-gradient(180.45deg,
   width: 61px;
   height: 40px;
   background: rgba(255, 255, 255, 0.24);
+
   /* Inside auto layout */
+
   flex: none;
   order: 2;
   flex-grow: 0;
@@ -626,7 +467,7 @@ background: linear-gradient(180.45deg,
   left: 0;
   top: 4137px;
   background: #1c1a19;
-  background-image: url("illustration-about-me-mobile.png");
+  background-image: url("/ImagesAboutMe/illustration-about-me-mobile.png");
   background-repeat: no-repeat;
   background-position-x: 215px;
   background-position-y: 384px;
@@ -642,6 +483,7 @@ background: linear-gradient(180.45deg,
 
 .about h1 {
   /* Primary Text */
+
   width: 327px;
   height: 79px;
   font-family: "Crete Round", sans-serif;
@@ -855,6 +697,7 @@ background: linear-gradient(180.45deg,
 button:disabled {
   background: #f4f1f0;
 }
+
 button:enabled {
   background: #f55800;
 }
