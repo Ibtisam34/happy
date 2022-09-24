@@ -361,7 +361,7 @@
 }
 
 .work1 {
-  background-image: url("/ImagesWorks/BG1.png");
+  background-image: url("BG1.png");
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -467,7 +467,7 @@
   left: 0;
   top: 4137px;
   background: #1c1a19;
-  background-image: url("/ImagesAboutMe/illustration-about-me-mobile.png");
+  background-image: url("illustration-about-me-mobile.png");
   background-repeat: no-repeat;
   background-position-x: 215px;
   background-position-y: 384px;
