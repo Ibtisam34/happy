@@ -784,6 +784,7 @@ button:hover {
   height: 48px;
   border: none;
   color: #fff;
+  margin-left: 5px;
 }
 
 .ContactForm li:last-child {
